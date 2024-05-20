@@ -62,7 +62,7 @@ body{
     width: 104%;
     align-items: center;
     justify-content:space-between;
-    margin: 30px auto 0;
+    margin: 30px auto 0 2px;
     border-radius: 20px;
     padding: 0px 10px;
     text-align: center;
@@ -88,6 +88,7 @@ body{
     width: 60px;
     height: 60px;
     cursor: pointer;
+    margin-left: -18px;
 
 }
 .search button img{
